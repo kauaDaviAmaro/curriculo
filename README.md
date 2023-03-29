@@ -1,11 +1,11 @@
 # curriculo
 
-## dados pessoais
+## **dados pessoais**
 
 - email: kauadaviamaro@gmail
 - pais: Brasil
 - cidade: Marília
 
-## conhecimento
+## **conhecimento**
 
 - Linguagens: python, javascript
